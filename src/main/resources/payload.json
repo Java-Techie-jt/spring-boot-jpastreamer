@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Basant",
+    "dept": "DEV",
+    "salary": 50000
+  },
+  {
+    "name": "Santosh",
+    "dept": "UI",
+    "salary": 60000
+  },
+  {
+    "name": "Rakesh",
+    "dept": "DEV",
+    "salary": 40000
+  },
+  {
+    "name": "Ashik",
+    "dept": "DEV",
+    "salary": 70000
+  },
+  {
+    "name": "Bikash",
+    "dept": "QA",
+    "salary": 30000
+  },
+  {
+    "name": "John",
+    "dept": "UI",
+    "salary": 80000
+  },
+  {
+    "name": "peter",
+    "dept": "QA",
+    "salary": 60000
+  },
+  {
+    "name": "sam",
+    "dept": "ADMIN",
+    "salary": 20000
+  },
+  {
+    "name": "Sankar",
+    "dept": "TRANSPORTATION",
+    "salary": 30000
+  },
+  {
+    "name": "kiran",
+    "dept": "ADMIN",
+    "salary": 15000
+  }
+]
